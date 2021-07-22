@@ -1,0 +1,28 @@
+.bg-color{
+    background-color: #32cd32;
+}
+
+ul{
+    list-style-type: none;
+}
+
+section{
+    font-family: 'Roboto', sans-serif; 
+    color: #ffffff;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.img{
+    width: 4%;
+}
+
+.link_active{
+    padding: 20px;
+    background-color: #ffffff;
+    color: #32cd32;
+}
